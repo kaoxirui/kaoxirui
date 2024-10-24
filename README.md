@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaoxirui&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaoxirui&layout=compact)](https://github.com/kaoxirui/github-readme-stats)
 
 <!--
 **kaoxirui/kaoxirui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
